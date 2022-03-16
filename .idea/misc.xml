@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Freelance Work/Mohyuddin's Project/Scogo/app/src/main/res/drawable/edit_field_background.xml" value="0.1355" />
+        <entry key="..\:/Freelance Work/Mohyuddin's Project/Scogo/app/src/main/res/drawable/single_round_corner.xml" value="0.1355" />
+        <entry key="..\:/Freelance Work/Mohyuddin's Project/Scogo/app/src/main/res/layout-land/activity_login.xml" value="0.1" />
+        <entry key="..\:/Freelance Work/Mohyuddin's Project/Scogo/app/src/main/res/layout-land/activity_main.xml" value="0.11197916666666667" />
+        <entry key="..\:/Freelance Work/Mohyuddin's Project/Scogo/app/src/main/res/layout-land/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Freelance Work/Mohyuddin's Project/Scogo/app/src/main/res/layout/activity_login.xml" value="0.18478260869565216" />
+        <entry key="..\:/Freelance Work/Mohyuddin's Project/Scogo/app/src/main/res/layout/activity_splash.xml" value="0.18478260869565216" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
