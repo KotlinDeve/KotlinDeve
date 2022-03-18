@@ -8,6 +8,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
+    <color name="app_color">#2F3567</color>
     <color name="text_color_primary">#2F4BD8</color>
     <color name="app_green">#50AC68</color>
     <color name="dark_green">#428F56</color>

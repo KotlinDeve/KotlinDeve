@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="edit_field_icon_size">30dp</dimen>
+    <dimen name="edit_field_height">71dp</dimen>
+    <dimen name="button_height">71dp</dimen>
+    <dimen name="button_text_size">25sp</dimen>
+    <dimen name="edit_field_text_size">18sp</dimen>
+    <dimen name="title_text_size">36sp</dimen>
+    <dimen name="number_height">68dp</dimen>
+    <dimen name="button_corner_radius">26dp</dimen>
+</resources>

@@ -5,11 +5,15 @@
       <map>
         <entry key="..\:/Freelance Work/Mohyuddin's Project/Scogo/app/src/main/res/drawable/edit_field_background.xml" value="0.1355" />
         <entry key="..\:/Freelance Work/Mohyuddin's Project/Scogo/app/src/main/res/drawable/single_round_corner.xml" value="0.1355" />
-        <entry key="..\:/Freelance Work/Mohyuddin's Project/Scogo/app/src/main/res/layout-land/activity_login.xml" value="0.1" />
+        <entry key="..\:/Freelance Work/Mohyuddin's Project/Scogo/app/src/main/res/layout-land/activity_login.xml" value="0.11200000000000002" />
+        <entry key="..\:/Freelance Work/Mohyuddin's Project/Scogo/app/src/main/res/layout-land/activity_login2.xml" value="0.152" />
         <entry key="..\:/Freelance Work/Mohyuddin's Project/Scogo/app/src/main/res/layout-land/activity_main.xml" value="0.11197916666666667" />
-        <entry key="..\:/Freelance Work/Mohyuddin's Project/Scogo/app/src/main/res/layout-land/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Freelance Work/Mohyuddin's Project/Scogo/app/src/main/res/layout-land/activity_splash.xml" value="0.10400000000000001" />
+        <entry key="..\:/Freelance Work/Mohyuddin's Project/Scogo/app/src/main/res/layout-port/activity_login2.xml" value="0.17999144933732364" />
         <entry key="..\:/Freelance Work/Mohyuddin's Project/Scogo/app/src/main/res/layout/activity_login.xml" value="0.18478260869565216" />
+        <entry key="..\:/Freelance Work/Mohyuddin's Project/Scogo/app/src/main/res/layout/activity_login2.xml" value="0.1" />
         <entry key="..\:/Freelance Work/Mohyuddin's Project/Scogo/app/src/main/res/layout/activity_splash.xml" value="0.18478260869565216" />
+        <entry key="..\:/Freelance Work/Mohyuddin's Project/Scogo/app/src/main/res/layout/content_base.xml" value="0.136" />
       </map>
     </option>
   </component>
