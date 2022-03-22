@@ -15,7 +15,7 @@ class LoginActivity : BaseActivity() {
         setContentView(binding.root)
 
         binding.tiUserID.leftDrawable(R.drawable.ic_user, R.dimen.edit_field_icon_size)
-        binding.tiPassword?.leftDrawable(R.drawable.ic_password, R.dimen.edit_field_icon_size)
+        binding.tiPassword.leftDrawable(R.drawable.ic_password, R.dimen.edit_field_icon_size)
 
         setClick()
     }
@@ -24,33 +24,43 @@ class LoginActivity : BaseActivity() {
         binding.imgExit?.setOnClickListener {
             finishAffinity()
         }
+
         binding.textZero.setOnClickListener {
             setValue(binding.textZero.text.toString())
         }
+
         binding.textOne.setOnClickListener {
             setValue(binding.textOne.text.toString())
         }
+
         binding.textTwo.setOnClickListener {
             setValue(binding.textTwo.text.toString())
         }
+
         binding.textThree.setOnClickListener {
             setValue(binding.textThree.text.toString())
         }
+
         binding.textFour.setOnClickListener {
             setValue(binding.textFour.text.toString())
         }
+
         binding.textFive.setOnClickListener {
             setValue(binding.textFive.text.toString())
         }
+
         binding.textSix.setOnClickListener {
             setValue(binding.textSix.text.toString())
         }
+
         binding.textSeven.setOnClickListener {
             setValue(binding.textSeven.text.toString())
         }
+
         binding.textEight.setOnClickListener {
             setValue(binding.textEight.text.toString())
         }
+
         binding.textNine.setOnClickListener {
             setValue(binding.textNine.text.toString())
         }
